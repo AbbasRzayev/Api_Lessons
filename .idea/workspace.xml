@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25894d05-4f22-42d5-ab9c-485fe7be21c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/baseUrl/JsonPlaseHolderBaseUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/get/Get_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/get/Get_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/get/Get_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/get/Get_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cucumber_Run_From_JarFile/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cucumber_Run_From_JarFile/src/test/java/Base/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API_Test_Cucumber_Framework_Youtube/src/test/java/hooks/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../API_Test_Cucumber_Framework_Youtube/src/test/java/hooks/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API_Test_Cucumber_Framework_Youtube/src/test/java/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../API_Test_Cucumber_Framework_Youtube/src/test/java/runner/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_Tutklunlari_API_Project/src/test/java/get/Get_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test_Tutklunlari_API_Project/src/test/java/get/Get_01.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hakankara75&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hakankara75/AppiumAtouMod&quot;,
+    &quot;accountId&quot;: &quot;84c66ff9-131b-4ed3-8139-a021ae8ee00a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2garn1qtsjdlCTQpCWxDzsZezYf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.API_Lessons [clean].executor": "Run",
+    "Maven.API_Lessons [install].executor": "Run",
+    "Maven.API_Lessons [org.apache.maven.plugins:maven-clean-plugin:3.2.0:clean].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.Get_01.get01.executor": "Run",
+    "TestNG.Get_02.get02.executor": "Run",
+    "TestNG.Get_03.get03.executor": "Run",
+    "git-widget-placeholder": "hakan",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Hakan/IdeaProjects/Appium_Ders",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.Get_03.get03">
+    <configuration name="Get_01.get01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="API_Lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="get.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="get" />
+      <option name="MAIN_CLASS_NAME" value="get.Get_01" />
+      <option name="METHOD_NAME" value="get01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Get_02.get02" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="API_Lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="get.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="get" />
+      <option name="MAIN_CLASS_NAME" value="get.Get_02" />
+      <option name="METHOD_NAME" value="get02" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Get_03.get03" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="API_Lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="get.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="get" />
+      <option name="MAIN_CLASS_NAME" value="get.Get_03" />
+      <option name="METHOD_NAME" value="get03" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Get_03.get03" />
+        <item itemvalue="TestNG.Get_02.get02" />
+        <item itemvalue="TestNG.Get_01.get01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25894d05-4f22-42d5-ab9c-485fe7be21c7" name="Changes" comment="" />
+      <created>1715946692961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715946692961</updated>
+    </task>
+    <servers />
+  </component>
+</project>
