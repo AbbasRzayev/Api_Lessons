@@ -5,23 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25894d05-4f22-42d5-ab9c-485fe7be21c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/baseUrl/JsonPlaseHolderBaseUrl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/get/Get_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/get/Get_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/get/Get_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/get/Get_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cucumber_Run_From_JarFile/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cucumber_Run_From_JarFile/src/test/java/Base/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API_Test_Cucumber_Framework_Youtube/src/test/java/hooks/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../API_Test_Cucumber_Framework_Youtube/src/test/java/hooks/Hooks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API_Test_Cucumber_Framework_Youtube/src/test/java/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../API_Test_Cucumber_Framework_Youtube/src/test/java/runner/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test_Tutklunlari_API_Project/src/test/java/get/Get_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test_Tutklunlari_API_Project/src/test/java/get/Get_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/baseUrl/GoRestBaseUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/baseUrl/HerokuAppBaseUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/get/Get_04_List_Hard_Assertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/get/Get_05_Invalid_Id_JUnit_Assertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/get/Get_06_Invalid_Id_JUnit_Assertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/get/Get_07_BaseUrl_TestNG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/baseUrl/JsonPlaseHolderBaseUrl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/baseUrl/JsonPlaseHolderBaseUrl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/get/Get_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/get/Get_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/get/Get_04.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +41,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/hakankara75/AppiumAtouMod&quot;,
+    &quot;url&quot;: &quot;https://github.com/AbbasRzayev/Api_Lessons.git&quot;,
     &quot;accountId&quot;: &quot;84c66ff9-131b-4ed3-8139-a021ae8ee00a&quot;
   }
 }</component>
@@ -60,23 +55,36 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.Get_04.get04.executor": "Run",
+    "JUnit.Get_05_Invalid_Id_JUnit_Assertion.name.executor": "Run",
+    "JUnit.Get_05_Invalid_Id_JUnit_Assertion.negativeTest2.executor": "Run",
+    "JUnit.Get_06_Invalid_Id_JUnit_Assertion.negativeTest2.executor": "Run",
     "Maven.API_Lessons [clean].executor": "Run",
     "Maven.API_Lessons [install].executor": "Run",
     "Maven.API_Lessons [org.apache.maven.plugins:maven-clean-plugin:3.2.0:clean].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.Get_01.get01.executor": "Run",
     "TestNG.Get_02.get02.executor": "Run",
     "TestNG.Get_03.get03.executor": "Run",
+    "TestNG.Get_04.get04.executor": "Run",
+    "TestNG.Get_07_BaseUrl_TestNG.testName.executor": "Run",
     "git-widget-placeholder": "hakan",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Hakan/IdeaProjects/Appium_Ders",
+    "last_opened_file_path": "C:/Users/Hakan/IdeaProjects/Api_Lessons",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.Get_03.get03">
-    <configuration name="Get_01.get01" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="get" />
+      <recent name="baseUrl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Get_07_BaseUrl_TestNG.testName">
+    <configuration name="Get_04_List_Hard_Assertion.get04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="API_Lessons" />
       <extension name="coverage">
         <pattern>
@@ -85,16 +93,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="get" />
-      <option name="MAIN_CLASS_NAME" value="get.Get_01" />
-      <option name="METHOD_NAME" value="get01" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
+      <option name="MAIN_CLASS_NAME" value="get.Get_04_List_Hard_Assertion" />
+      <option name="METHOD_NAME" value="get04" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Get_02.get02" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Get_05_Invalid_Id_JUnit_Assertion.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="API_Lessons" />
       <extension name="coverage">
         <pattern>
@@ -103,16 +109,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="get" />
-      <option name="MAIN_CLASS_NAME" value="get.Get_02" />
-      <option name="METHOD_NAME" value="get02" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
+      <option name="MAIN_CLASS_NAME" value="get.Get_05_Invalid_Id_JUnit_Assertion" />
+      <option name="METHOD_NAME" value="name" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Get_03.get03" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Get_05_Invalid_Id_JUnit_Assertion.negativeTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="API_Lessons" />
       <extension name="coverage">
         <pattern>
@@ -121,8 +125,40 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="get" />
-      <option name="MAIN_CLASS_NAME" value="get.Get_03" />
-      <option name="METHOD_NAME" value="get03" />
+      <option name="MAIN_CLASS_NAME" value="get.Get_05_Invalid_Id_JUnit_Assertion" />
+      <option name="METHOD_NAME" value="negativeTest2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Get_06_Invalid_Id_JUnit_Assertion.negativeTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="API_Lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="get.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="get" />
+      <option name="MAIN_CLASS_NAME" value="get.Get_06_Invalid_Id_JUnit_Assertion" />
+      <option name="METHOD_NAME" value="negativeTest2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Get_07_BaseUrl_TestNG.testName" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="API_Lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="get.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="get" />
+      <option name="MAIN_CLASS_NAME" value="get.Get_07_BaseUrl_TestNG" />
+      <option name="METHOD_NAME" value="testName" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -132,9 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Get_03.get03" />
-        <item itemvalue="TestNG.Get_02.get02" />
-        <item itemvalue="TestNG.Get_01.get01" />
+        <item itemvalue="TestNG.Get_07_BaseUrl_TestNG.testName" />
+        <item itemvalue="JUnit.Get_06_Invalid_Id_JUnit_Assertion.negativeTest2" />
+        <item itemvalue="JUnit.Get_05_Invalid_Id_JUnit_Assertion.negativeTest2" />
+        <item itemvalue="JUnit.Get_05_Invalid_Id_JUnit_Assertion.name" />
+        <item itemvalue="JUnit.Get_04_List_Hard_Assertion.get04" />
       </list>
     </recent_temporary>
   </component>
