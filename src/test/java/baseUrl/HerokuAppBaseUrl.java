@@ -5,16 +5,16 @@ import io.restassured.http.ContentType;
 import io.restassured.specification.RequestSpecification;
 import org.junit.Before;
 
-public class JsonPlaseHolderBaseUrl {
+public  class HerokuAppBaseUrl {
 
-    String baseUrl ="https://jsonplaceholder.typicode.com";
+    String baseUrl ="https://restful-booker.herokuapp.com";
 
-protected RequestSpecification spec;
+protected RequestSpecification specHeroku;
 
   @Before //Anatosyon JUnitten oldugu icin TEst metodu da JUnit den olmali
     public void setup(){
-      spec=new RequestSpecBuilder().setContentType(ContentType.JSON)
-              .setAccept(ContentType.JSON).setBaseUri(baseUrl).build();
+      specHeroku=new RequestSpecBuilder()
+              .setBaseUri(baseUrl).build();
   }
 
 }
