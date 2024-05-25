@@ -5,18 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25894d05-4f22-42d5-ab9c-485fe7be21c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/baseUrl/GoRestBaseUrl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/baseUrl/HerokuAppBaseUrl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/get/Get_04_List_Hard_Assertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/get/Get_05_Invalid_Id_JUnit_Assertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/get/Get_06_Invalid_Id_JUnit_Assertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/get/Get_07_BaseUrl_TestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/baseUrl/ReqresBaseUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/baseUrl/RestCountries_BaseUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/get/Get_08_Assert_Datum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/get/Get_09_PathParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/get/Get_10_PathParams_Groovy_Language.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/baseUrl/JsonPlaseHolderBaseUrl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/baseUrl/JsonPlaseHolderBaseUrl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/get/Get_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/get/Get_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/get/Get_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/get/Get_07_BaseUrl_TestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/get/Get_07_BaseUrl_TestNG.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,10 +40,16 @@
     &quot;accountId&quot;: &quot;84c66ff9-131b-4ed3-8139-a021ae8ee00a&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-21/lib/src.zip!/java.base/java/lang/IllegalArgumentException.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2garn1qtsjdlCTQpCWxDzsZezYf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -59,6 +60,7 @@
     "JUnit.Get_05_Invalid_Id_JUnit_Assertion.name.executor": "Run",
     "JUnit.Get_05_Invalid_Id_JUnit_Assertion.negativeTest2.executor": "Run",
     "JUnit.Get_06_Invalid_Id_JUnit_Assertion.negativeTest2.executor": "Run",
+    "JUnit.Get_08_Assert_Datum.testName.executor": "Run",
     "Maven.API_Lessons [clean].executor": "Run",
     "Maven.API_Lessons [install].executor": "Run",
     "Maven.API_Lessons [org.apache.maven.plugins:maven-clean-plugin:3.2.0:clean].executor": "Run",
@@ -69,6 +71,9 @@
     "TestNG.Get_03.get03.executor": "Run",
     "TestNG.Get_04.get04.executor": "Run",
     "TestNG.Get_07_BaseUrl_TestNG.testName.executor": "Run",
+    "TestNG.Get_09_PathParams.testName.executor": "Run",
+    "TestNG.Get_10_PathParams.testName.executor": "Run",
+    "TestNG.Get_10_PathParams_Groovy_Language.testName.executor": "Run",
     "git-widget-placeholder": "hakan",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Hakan/IdeaProjects/Api_Lessons",
@@ -83,55 +88,7 @@
       <recent name="baseUrl" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Get_07_BaseUrl_TestNG.testName">
-    <configuration name="Get_04_List_Hard_Assertion.get04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="API_Lessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="get.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="get" />
-      <option name="MAIN_CLASS_NAME" value="get.Get_04_List_Hard_Assertion" />
-      <option name="METHOD_NAME" value="get04" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Get_05_Invalid_Id_JUnit_Assertion.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="API_Lessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="get.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="get" />
-      <option name="MAIN_CLASS_NAME" value="get.Get_05_Invalid_Id_JUnit_Assertion" />
-      <option name="METHOD_NAME" value="name" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Get_05_Invalid_Id_JUnit_Assertion.negativeTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="API_Lessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="get.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="get" />
-      <option name="MAIN_CLASS_NAME" value="get.Get_05_Invalid_Id_JUnit_Assertion" />
-      <option name="METHOD_NAME" value="negativeTest2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Get_10_PathParams_Groovy_Language.testName">
     <configuration name="Get_06_Invalid_Id_JUnit_Assertion.negativeTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="API_Lessons" />
       <extension name="coverage">
@@ -143,6 +100,22 @@
       <option name="PACKAGE_NAME" value="get" />
       <option name="MAIN_CLASS_NAME" value="get.Get_06_Invalid_Id_JUnit_Assertion" />
       <option name="METHOD_NAME" value="negativeTest2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Get_08_Assert_Datum.testName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="API_Lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="get.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="get" />
+      <option name="MAIN_CLASS_NAME" value="get.Get_08_Assert_Datum" />
+      <option name="METHOD_NAME" value="testName" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -166,13 +139,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Get_09_PathParams.testName" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="API_Lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="get.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="get" />
+      <option name="MAIN_CLASS_NAME" value="get.Get_09_PathParams" />
+      <option name="METHOD_NAME" value="testName" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Get_10_PathParams_Groovy_Language.testName" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="API_Lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="get.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="get" />
+      <option name="MAIN_CLASS_NAME" value="get.Get_10_PathParams_Groovy_Language" />
+      <option name="METHOD_NAME" value="testName" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Get_10_PathParams_Groovy_Language.testName" />
+        <item itemvalue="TestNG.Get_09_PathParams.testName" />
+        <item itemvalue="JUnit.Get_08_Assert_Datum.testName" />
         <item itemvalue="TestNG.Get_07_BaseUrl_TestNG.testName" />
         <item itemvalue="JUnit.Get_06_Invalid_Id_JUnit_Assertion.negativeTest2" />
-        <item itemvalue="JUnit.Get_05_Invalid_Id_JUnit_Assertion.negativeTest2" />
-        <item itemvalue="JUnit.Get_05_Invalid_Id_JUnit_Assertion.name" />
-        <item itemvalue="JUnit.Get_04_List_Hard_Assertion.get04" />
       </list>
     </recent_temporary>
   </component>
