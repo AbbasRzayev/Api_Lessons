@@ -6,7 +6,7 @@ import io.restassured.response.Response;
 import org.testng.annotations.Test;
 
 import static io.restassured.RestAssured.given;
-import static org.hamcrest.CoreMatchers.equalTo;
+import static org.hamcrest.CoreMatchers.*;
 
 public class Get_07_BaseUrl_TestNG extends GoRestBaseUrl {
 /*
@@ -32,12 +32,22 @@ User send GET Request to the URL
         response.prettyPrint();
 
         //4- Do assertion
+        //tekil dogrulama
         response.then()
                 .statusCode(200)
                 .contentType(ContentType.JSON)
-                .body("name", equalTo("Kamlesh Shah"),
-                        "id", equalTo(6919806),
-                        "gender", equalTo("female"));
+                .body("name", hasItem("Rev. Dhanapati Desai"),
+                        "id", hasItem(6927838),
+                        "gender", hasItem("female"));
+
+        //coklu data dogrulama
+        response.then()
+                .statusCode(200)
+                .contentType(ContentType.JSON)
+                .body("name", hasItems("Chandani Mehra", "Rev. Dhanapati Desai", "Dakshayani Ahluwalia"),
+                        "gender", hasItems("male","female"),
+                        "email",hasItems("dhanapati_desai_rev@rath-gislason.example","parvati_pres_kaniyar@von-mcglynn.example"),
+                        "id",hasItems(6927845, 6927844, 6927843));
 
 
 
