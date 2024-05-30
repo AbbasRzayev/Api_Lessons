@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25894d05-4f22-42d5-ab9c-485fe7be21c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/baseUrl/ReqresBaseUrl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/baseUrl/RestCountries_BaseUrl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/get/Get_08_Assert_Datum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/get/Get_09_PathParams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/get/Get_10_PathParams_Groovy_Language.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/get/Get_11QueryParam_JsonPath_GetList_Assertion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/get/Get_07_BaseUrl_TestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/get/Get_07_BaseUrl_TestNG.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +56,8 @@
     "JUnit.Get_05_Invalid_Id_JUnit_Assertion.negativeTest2.executor": "Run",
     "JUnit.Get_06_Invalid_Id_JUnit_Assertion.negativeTest2.executor": "Run",
     "JUnit.Get_08_Assert_Datum.testName.executor": "Run",
+    "JUnit.Get_11QueryParam_JsonPath_GetList_Assertion.name.executor": "Run",
+    "JUnit.Get_11QueryParam_JsonPath_GetList_Assertion.testName.executor": "Run",
     "Maven.API_Lessons [clean].executor": "Run",
     "Maven.API_Lessons [install].executor": "Run",
     "Maven.API_Lessons [org.apache.maven.plugins:maven-clean-plugin:3.2.0:clean].executor": "Run",
@@ -76,7 +73,7 @@
     "TestNG.Get_10_PathParams_Groovy_Language.testName.executor": "Run",
     "git-widget-placeholder": "hakan",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Hakan/IdeaProjects/Api_Lessons",
+    "last_opened_file_path": "C:/Users/Hakan/IdeaProjects/Selenium_Studies",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0"
@@ -88,23 +85,7 @@
       <recent name="baseUrl" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Get_10_PathParams_Groovy_Language.testName">
-    <configuration name="Get_06_Invalid_Id_JUnit_Assertion.negativeTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="API_Lessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="get.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="get" />
-      <option name="MAIN_CLASS_NAME" value="get.Get_06_Invalid_Id_JUnit_Assertion" />
-      <option name="METHOD_NAME" value="negativeTest2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Get_11QueryParam_JsonPath_GetList_Assertion.name">
     <configuration name="Get_08_Assert_Datum.testName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="API_Lessons" />
       <extension name="coverage">
@@ -121,7 +102,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Get_07_BaseUrl_TestNG.testName" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Get_11QueryParam_JsonPath_GetList_Assertion.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="API_Lessons" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +111,25 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="get" />
-      <option name="MAIN_CLASS_NAME" value="get.Get_07_BaseUrl_TestNG" />
+      <option name="MAIN_CLASS_NAME" value="get.Get_11QueryParam_JsonPath_GetList_Assertion" />
+      <option name="METHOD_NAME" value="name" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Get_11QueryParam_JsonPath_GetList_Assertion.testName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="API_Lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="get.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="get" />
+      <option name="MAIN_CLASS_NAME" value="get.Get_11QueryParam_JsonPath_GetList_Assertion" />
       <option name="METHOD_NAME" value="testName" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -177,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Get_11QueryParam_JsonPath_GetList_Assertion.name" />
+        <item itemvalue="JUnit.Get_11QueryParam_JsonPath_GetList_Assertion.testName" />
         <item itemvalue="TestNG.Get_10_PathParams_Groovy_Language.testName" />
         <item itemvalue="TestNG.Get_09_PathParams.testName" />
         <item itemvalue="JUnit.Get_08_Assert_Datum.testName" />
-        <item itemvalue="TestNG.Get_07_BaseUrl_TestNG.testName" />
-        <item itemvalue="JUnit.Get_06_Invalid_Id_JUnit_Assertion.negativeTest2" />
       </list>
     </recent_temporary>
   </component>
